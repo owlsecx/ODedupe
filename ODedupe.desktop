@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ODedupe
+Comment=Duplicate File Hunter
+Exec=ODedupe
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
